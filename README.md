@@ -43,3 +43,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Code linters used within this project have been supplied by Microverse
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./license.md) licensed.
